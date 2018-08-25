@@ -1,0 +1,27 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": "10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tykatyk/chat-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tykatyk/chat-app/issues"
+  },
+  "homepage": "https://github.com/tykatyk/chat-app#readme"
+}
