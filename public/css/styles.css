@@ -60,6 +60,18 @@ button:disabled {
   margin:10px 20px;
 }
 
+.chat__sidebar ul {
+  list-style-type: none;
+}
+
+.chat__sidebar li {
+  background: #e6eaee;
+  border: 1px solid #e1e1e1;
+  border-radius:5px;
+  padding: 10px;
+  margin: 10px;
+}
+
 .chat__main {
   display:flex;
   flex-direction: column;
